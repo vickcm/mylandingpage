@@ -16,7 +16,7 @@ export const Navigation = (props) => {
             <span className='icon-bar'></span>{' '}
           </button>
           <a className='navbar-brand page-scroll' href='#page-top'>
-            My Landing Page
+            <img src="/img/logo.png" alt="logo atareados" className='navbar-logo'/>
           </a>{' '}
         </div>
 
@@ -27,7 +27,7 @@ export const Navigation = (props) => {
           <ul className='nav navbar-nav navbar-right'>
             <li>
               <a href='#about' className='page-scroll'>
-                mockup
+                Mockup
               </a>
             </li>
             <li>
@@ -37,7 +37,7 @@ export const Navigation = (props) => {
             </li>
             <li>
               <a href='#aboutV2' className='page-scroll'>
-                acerca de nosotras
+                Acerca de nosotras
               </a>
             </li>
             <li>
@@ -45,12 +45,6 @@ export const Navigation = (props) => {
                 Preguntas Frecuentes
               </a>
             </li>
-            <li>
-              <a href='#testimonials' className='page-scroll'>
-                Reseñas
-              </a>
-            </li>
-            
           </ul>
         </div>
       </div>

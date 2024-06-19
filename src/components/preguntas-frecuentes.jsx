@@ -31,21 +31,37 @@ export const Faq = () => {
   };
 
   return (
-    <div className="faq-container" id="preguntasFrecuentes">
-      {faqs.map((faq, index) => (
-        <div
-          className={`faq-item ${faq.open ? 'open' : ''}`}
-          key={index}
-          onClick={() => toggleFaq(index)}
-        >
-          <div className="faq-question">
-            {faq.question}
-          </div>
-          <div className="faq-answer">
-            {faq.answer}
-          </div>
+    <div id='faqs'>
+      <div  className="panel-group container" id="faqAccordion">
+        <div className='section-title'>
+          <h2>Preguntas Frecuentes</h2>
         </div>
-      ))}
+        {faqs.map((faq, index) => (
+          <div className="panel panel-default" key={index}>
+            <div className="panel-heading">
+              <h4 className="panel-title">
+                <a
+                  data-toggle="collapse"
+                  data-parent="#faqAccordion"
+                  href={`#collapse${index}`}
+                  className={faq.open ? '' : 'collapsed'}
+                  onClick={() => toggleFaq(index)}
+                >
+                  {faq.question}
+                </a>
+              </h4>
+            </div>
+            <div
+              id={`collapse${index}`}
+              className={`panel-collapse collapse ${faq.open ? 'in' : ''}`}
+            >
+              <div className="panel-body">
+                {faq.answer}
+              </div>
+            </div>
+          </div>
+        ))}
+      </div>
     </div>
   );
 };
