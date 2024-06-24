@@ -2,11 +2,16 @@
     "Header": {
 
         "title": "Atareados",
-        "paragraph": "La aplicación que fortalece el vínculo familiar, promueve la armonía en la vida cotidiana y, lo que es más significativo, nos ayuda a redescubrir la diversión en cada actividad que compartimos juntos."
+        "paragraph": "La aplicación que fortalece el vínculo familiar, promueve la armonía en la vida cotidiana y, lo que es más significativo, nos ayuda a redescubrir la diversión en cada actividad que compartimos juntos.",
+        "paragraph2": "¿Estás listo para unirte a la revolución de la diversión y la organización?",
+        "paragraph3": "¡Descargá Atareados hoy mismo y comenzá a disfrutar de la vida al máximo!"
+
+
+
 
     },
     "About": {
-        "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "paragraph": "Atareados, es la respuesta a esos desafíos cotidianos que todos enfrentamos. Nos ayuda a recuperar el tiempo de calidad juntos, a mantenernos organizados y, lo más importante, a divertirnos mientras lo hacemos. Atareados es una aplicación que fortalece el vínculo familiar, promueve la armonía en la vida cotidiana y, lo que es más significativo, nos ayuda a redescubrir la diversión en cada actividad que compartimos juntos.",
         "Why": [
             "Lorem ipsum dolor",
             "Tempor incididunt",
@@ -129,7 +134,7 @@
         },
         {
             "icon": "fa fa-magic",
-            "title": "El poder de las sorpresas",
+            "title": "Sorpresas",
             "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
         }
     ]
