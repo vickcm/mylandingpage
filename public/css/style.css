@@ -11,7 +11,6 @@ h2, h3, h4 {
 	font-family: 'Raleway', sans-serif;
 }
 h2 {
-	text-transform: uppercase;
 	margin: 0 0 20px 0;
 	font-weight: 800;
 	font-size: 36px;
@@ -170,7 +169,6 @@ hr {
 	text-transform: uppercase;
 	color: #fff;
 	background-color: #887CBA;
-	background-image: #887CBA;
 	padding: 14px 34px;
 	letter-spacing: 1px;
 	margin: 0;
@@ -245,7 +243,7 @@ header .intro-text {
 	font-size: 38px;
 	margin-bottom: 20px;
 	transition: all 0.5s;
-	color: #fff;
+	color: #8D9E0D;
 	width: 100px;
 	height: 100px;
 	padding: 30px 0;
@@ -303,7 +301,7 @@ header .intro-text {
 /* Services Section */
 #services {
 	padding: 100px 0;
-	background: #887CBA;
+	background: #b9aceb;
 	color: #fff;
 }
 #services .service-desc {
@@ -329,7 +327,7 @@ header .intro-text {
 	padding: 40px 0;
 	background: #e9edca;
 	border-radius: 50%;
-	color: #fff;
+	color: #8D9E0D;
 	box-shadow: 10px 10px 10px rgba(0,0,0,.05);
 }
 #services h3 {
@@ -361,7 +359,7 @@ header .intro-text {
 	text-align: center;
 	margin: 0 auto;
 	color: #fff;
-	background: linear-gradient(to right, rgba(99,114,255,0.8) 0%, rgba(92,169,251,0.8) 100%);
+	background: #f2effaab;
 	padding: 30% 0 0 0;
 	height: 100%;
 	width: 100%;
