@@ -11,12 +11,12 @@
 
     },
     "About": {
+        "title": "Descubre Atareados",
         "paragraph": "Atareados, es la respuesta a esos desafíos cotidianos que todos enfrentamos. Nos ayuda a recuperar el tiempo de calidad juntos, a mantenernos organizados y, lo más importante, a divertirnos mientras lo hacemos. Atareados es una aplicación que fortalece el vínculo familiar, promueve la armonía en la vida cotidiana y, lo que es más significativo, nos ayuda a redescubrir la diversión en cada actividad que compartimos juntos.",
         "Why": [
-            "Lorem ipsum dolor",
-            "Tempor incididunt",
-            "Lorem ipsum dolor",
-            "Incididunt ut labore"
+            "Nos ayuda a recuperar el tiempo de calidad juntos.",
+            "Nos ayuda a mantenernos organizados.",
+            "Nos ayuda a divertirnos mientras lo hacemos."
         ],
         "Why2": [
             "Aliquip ex ea commodo",
@@ -60,33 +60,33 @@
     ],
     "Testimonials": [{
             "img": "img/testimonials/01.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "John Doe"
+            "text": "\"Atareados ha transformado nuestra dinámica familiar. Ahora podemos organizarnos mejor y disfrutar más tiempo juntos. \"",
+            "name": "Ana G."
         },
         {
             "img": "img/testimonials/02.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "Johnathan Doe"
+            "text": "\"Nos encanta competir amigablemente para ver quién completa más tareas. ¡Altamente recomendable!\"",
+            "name": "Luis M."
         },
         {
             "img": "img/testimonials/03.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "John Doe"
+            "text": "\"Atareados no sólo es una herramienta de organización, sino que también añade un elemento de diversión a nuestras actividades diarias.\"",
+            "name": "Alicia B."
         },
         {
             "img": "img/testimonials/04.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "Johnathan Doe"
+            "text": "\"Nos ha ayudado a distribuir las tareas del hogar de manera equitativa, y nuestros hijos están más comprometidos que nunca.\"",
+            "name": "Mabel R."
         },
         {
             "img": "img/testimonials/05.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "John Doe"
+            "text": "\"Cada miembro de la familia sabe lo que tiene que hacer, y la competencia amistosa por completar tareas nos ha unido más.\"",
+            "name": "Fabián M."
         },
         {
             "img": "img/testimonials/06.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "Johnathan Doe"
+            "text": "\"Ahora, hacer las tareas del hogar es un juego que todos queremos jugar. Cada semana competimos para ver quien es el ganador\"",
+            "name": "Cecilia G."
         }
     ],
     "Team": [{
@@ -120,22 +120,22 @@
     "Features": [{
             "icon": "fa fa-comments-o",
             "title": "Desafíos semanales",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+            "text": "Cada semana, Atareados te presenta nuevos desafíos que te motivan a completar tus tareas de manera divertida y competitiva."
         },
         {
             "icon": "fa fa-bullhorn",
             "title": "Equipos",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+            "text": "En Atareados, puedes formar equipos con tus familiares y amigos para colaborar en tareas y objetivos comunes."
         },
         {
             "icon": "fa fa-group",
             "title": "Competencias",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+            "text": "La sana competencia no solo hace las tareas más divertidas, sino que también impulsa la productividad."
         },
         {
             "icon": "fa fa-magic",
             "title": "Sorpresas",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+            "text": "Cada 24 horas, se revela una nueva sorpresa que puede incluir puntos extra, recompensas especiales y mucho más."
         }
     ]
 }
