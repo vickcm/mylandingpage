@@ -11,3 +11,8 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.particles-bg-canvas-self path {
+  stroke: #ff0000; /* Color de trazo de las partículas */
+  fill: #00ff00; /* Color de relleno de las partículas */
+}
