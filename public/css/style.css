@@ -98,7 +98,7 @@ hr {
 	bottom: -1px;
 	width: 0;
 	height: 2px;
-	background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%);
+	background: #887CBA;
 	content: "";
 	transition: width 0.2s;
 }
@@ -129,7 +129,7 @@ hr {
 	bottom: -1px !important;
 	width: 100% !important;
 	height: 2px !important;
-	background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%) !important;
+	background: #887CBA !important;
 	content: "" !important;
 	transition: width 0.2s !important;
 }
@@ -155,7 +155,7 @@ hr {
 .section-title h2::after {
 	position: absolute;
 	content: "";
-	background: linear-gradient(to right, #887CBA 0%, #566FB2 100%);
+	background: #887CBA;
 	height: 4px;
 	width: 60px;
 	bottom: 0;
@@ -169,8 +169,8 @@ hr {
 	font-family: 'Raleway', sans-serif;
 	text-transform: uppercase;
 	color: #fff;
-	background-color: #5ca9fb;
-	background-image: linear-gradient(to right, #5ca9fb 0%, #6372ff 100%);
+	background-color: #887CBA;
+	background-image: #887CBA;
 	padding: 14px 34px;
 	letter-spacing: 1px;
 	margin: 0;
@@ -250,7 +250,7 @@ header .intro-text {
 	height: 100px;
 	padding: 30px 0;
 	border-radius: 50%;
-	background: linear-gradient(to right, #887CBA 0%, #566FB2 100%);
+	background: #e9edca;
 	box-shadow: 10px 10px 10px rgba(0,0,0,.05);
 }
 /* About Section */
@@ -269,7 +269,7 @@ header .intro-text {
 #about h2::after {
 	position: absolute;
 	content: "";
-	background: linear-gradient(to right, #887CBA 0%, #566FB2 100%);
+	background: #887CBA;
 	height: 4px;
 	width: 60px;
 	bottom: 0;
@@ -303,7 +303,7 @@ header .intro-text {
 /* Services Section */
 #services {
 	padding: 100px 0;
-	background: linear-gradient(to right, #887CBA 0%, #566FB2 100%);
+	background: #887CBA;
 	color: #fff;
 }
 #services .service-desc {
@@ -327,7 +327,7 @@ header .intro-text {
 	width: 120px;
 	height: 120px;
 	padding: 40px 0;
-	background: linear-gradient(to right, #887CBA 0%, #566FB2 100%);
+	background: #e9edca;
 	border-radius: 50%;
 	color: #fff;
 	box-shadow: 10px 10px 10px rgba(0,0,0,.05);
@@ -447,7 +447,7 @@ header .intro-text {
 /* Contact Section */
 #contact {
 	padding: 100px 0 60px 0;
-	background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%);
+	background: #887CBA;
 	color: rgba(255,255,255,.75);
 }
 #contact .section-title {
