@@ -118,7 +118,7 @@
         "youtube": "youtube.com"
     },
     "Features": [{
-            "icon": "fa fa-comments-o",
+            "icon": "circle",
             "title": "Desafíos semanales",
             "text": "Cada semana, Atareados te presenta nuevos desafíos que te motivan a completar tus tareas de manera divertida y competitiva."
         },
