@@ -5,8 +5,7 @@ export const Services = (props) => {
         <div className='section-title'>
           <h2>Funcionalidades</h2>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed
-            dapibus leonec.
+          Atareados ofrece herramientas poderosas diseñadas para facilitar la organización y el disfrute en familia. Descubre cómo nuestras características pueden transformar tu día a día:
           </p>
         </div>
         <div className='row'>

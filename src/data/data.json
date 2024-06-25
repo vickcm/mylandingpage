@@ -27,33 +27,33 @@
     },
     "Services": [{
             "icon": "fa fa-wordpress",
-            "name": "Lorem ipsum dolor",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "name": "Desafíos",
+            "text": "Personaliza el inicio de la semana  y aprovecha las tareas pre-cargadas para comenzar rápidamente."
         },
         {
             "icon": "fa fa-cart-arrow-down",
-            "name": "Consectetur adipiscing",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "name": "Tareas",
+            "text": "Agrega, edita y borra tareas según tus necesidades para mantener a tu familia comprometida y organizada."
         },
         {
             "icon": "fa fa-cloud-download",
-            "name": "Lorem ipsum dolor",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "name": "Equipos",
+            "text": "Únete o deja equipos en cualquier momento según tus necesidades. ¡La colaboración nunca fue tan fácil!"
         },
         {
             "icon": "fa fa-language",
-            "name": "Consectetur adipiscing",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "name": "Puntuación del desafío",
+            "text": "Gana puntos cada vez que completes una tarea, y sigue tu progreso en la tabla de puntos semanal. "
         },
         {
             "icon": "fa fa-plane",
-            "name": "Lorem ipsum dolor",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "name": "Puntuación por equipo",
+            "text": "Cada desafío es crucial: al finalizarlos, todos los puntos se suman a la tabla de puntos acumulada.  "
         },
         {
             "icon": "fa fa-pie-chart",
-            "name": "Consectetur adipiscing",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "name": "Explora nuevas tareas con IA",
+            "text": "¿Buscas algo diferente? Deja que nuestra IA te sugiera nuevas tareas para agregar variedad a tu rutina diaria."
         }
 
 
