@@ -33,7 +33,9 @@ export const Gallery = props => {
     <div id="portfolio" className="text-center">
       <div className="container">
         <div className="section-title">
-          <h2>Atareados en Acción</h2>
+          <h2>Atareados en Acción <i data-feather="circle"></i></h2>
+          
+
           <p>Explora nuestras capturas de pantalla y ejemplos de uso para ver lo fácil y divertido que es organizarte y disfrutar del tiempo en familia.</p>
         </div>
         <div className="row">
