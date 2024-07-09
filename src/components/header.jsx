@@ -16,20 +16,19 @@ export const Header = (props) => {
                 </h1>
                 <p>{props.data ? props.data.paragraph : 'Loading'}</p>
                 <p>{props.data ? props.data.paragraph3 : 'Loading'}</p>
-
-
-               
                 <a
                   href='#features'
-                  className='btn btn-custom btn-lg page-scroll'
+                  className='btn btn-store btn-lg page-scroll'
                 >
-                  botones de descarga
+                  <img src="/img/google-play.png" alt="logo atareados" width="35"/>
+                  Google Play
                 </a>{' '}
                 <a
                   href='#features'
-                  className='btn btn-custom btn-lg page-scroll'
+                  className='btn btn-store btn-lg page-scroll'
                 >
-                  botones de descarga
+                  <img src="/img/app-store.png" alt="logo atareados" width="35"/>
+                  App Store
                 </a>{' '}
               </div>
             </div>
