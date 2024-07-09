@@ -239,17 +239,26 @@ header .intro-text {
 	padding: 100px 0;
 	background: #f6f6f6;
 }
-#features svg.feather {
-	width: 100px;
-	height: 100px;
-	padding: 30px 0;
+#features svg.feather, 
+#features .hydrated {
 	border-radius: 50%;
 	background: #e9edca;
 	box-shadow: 10px 10px 10px rgba(0,0,0,.05);
 	color: #8D9E0D; /* Color de relleno del ícono */
 	transition: all 0.5s;
 	margin-bottom: 20px;
-  }
+}
+#features svg.feather {
+	width: 100px;
+	height: 100px;
+	padding: 30px 0;
+}
+#features .hydrated {
+	width: 45px;
+    height: 45px;
+    padding: 30px 30px;
+}
+
 /* About Section */
 #about {
 	padding: 100px 0;
@@ -300,42 +309,42 @@ header .intro-text {
 /* Services Section */
 #services {
 	padding: 100px 0;
-	background: #b9aceb;
-	color: #fff;
+	background: #f6f6f6;
 }
 #services .service-desc {
 	margin: 10px 10px 20px;
 }
-#services h2 {
-	color: #fff;
-}
 #services .section-title h2::after {
 	position: absolute;
 	content: "";
-	background: rgba(255,255,255,.3);
+	background: #887CBA;
 	height: 4px;
 	width: 60px;
 	bottom: 0;
 	margin-left: -30px;
 	left: 50%;
 }
-#services i.fa {
-	font-size: 42px;
-	width: 120px;
-	height: 120px;
-	padding: 40px 0;
+
+#services i.fa, 
+#services .hydrated{
 	background: #e9edca;
 	border-radius: 50%;
 	color: #8D9E0D;
 	box-shadow: 10px 10px 10px rgba(0,0,0,.05);
 }
+#services i.fa {
+	width: 100px;
+	height: 100px;
+	padding: 30px 0;
+}
+#services .hydrated {
+	width: 45px;
+    height: 45px;
+    padding: 30px 30px;
+}
 #services h3 {
 	font-weight: 500;
 	padding: 5px 0;
-	color: #fff;
-}
-#services p {
-	color: rgba(255,255,255,.75);
 }
 #services .service-desc {
 	margin-bottom: 40px;

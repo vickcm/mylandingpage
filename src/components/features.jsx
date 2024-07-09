@@ -10,7 +10,7 @@ export const Features = (props) => {
             ? props.data.map((d, i) => (
                 <div key={`${d.title}-${i}`} className='col-xs-6 col-md-3'>
                   {' '}
-                  <i  data-feather={d.icon}></i>
+                  <ion-icon name={d.icon}></ion-icon>
                   <h3>{d.title}</h3>
                   <p>{d.text}</p>
                 </div>

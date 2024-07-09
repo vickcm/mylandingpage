@@ -1,14 +1,9 @@
 {
     "Header": {
-
         "title": "Atareados",
         "paragraph": "La aplicación que fortalece el vínculo familiar, promueve la armonía en la vida cotidiana y, lo que es más significativo, nos ayuda a redescubrir la diversión en cada actividad que compartimos juntos.",
         "paragraph2": "¿Estás listo para unirte a la revolución de la diversión y la organización?",
         "paragraph3": "¡Descargá Atareados hoy mismo y comenzá a disfrutar de la vida al máximo!"
-
-
-
-
     },
     "About": {
         "title": "Descubre Atareados",
@@ -26,37 +21,35 @@
         ]
     },
     "Services": [{
-            "icon": "fa fa-wordpress",
+            "icon": "calendar-outline",
             "name": "Desafíos",
             "text": "Personaliza el inicio de la semana  y aprovecha las tareas pre-cargadas para comenzar rápidamente."
         },
         {
-            "icon": "fa fa-cart-arrow-down",
+            "icon": "clipboard-outline",
             "name": "Tareas",
             "text": "Agrega, edita y borra tareas según tus necesidades para mantener a tu familia comprometida y organizada."
         },
         {
-            "icon": "fa fa-cloud-download",
+            "icon": "people-outline",
             "name": "Equipos",
             "text": "Únete o deja equipos en cualquier momento según tus necesidades. ¡La colaboración nunca fue tan fácil!"
         },
         {
-            "icon": "fa fa-language",
+            "icon": "trophy-outline",
             "name": "Puntuación del desafío",
             "text": "Gana puntos cada vez que completes una tarea, y sigue tu progreso en la tabla de puntos semanal. "
         },
         {
-            "icon": "fa fa-plane",
+            "icon": "ribbon-outline",
             "name": "Puntuación por equipo",
             "text": "Cada desafío es crucial: al finalizarlos, todos los puntos se suman a la tabla de puntos acumulada.  "
         },
         {
-            "icon": "fa fa-pie-chart",
+            "icon": "terminal-outline",
             "name": "Explora nuevas tareas con IA",
             "text": "¿Buscas algo diferente? Deja que nuestra IA te sugiera nuevas tareas para agregar variedad a tu rutina diaria."
         }
-
-
     ],
     "Testimonials": [{
             "img": "img/testimonials/01.jpg",
@@ -118,22 +111,22 @@
         "youtube": "youtube.com"
     },
     "Features": [{
-            "icon": "circle",
+            "icon": "calendar-outline",
             "title": "Desafíos semanales",
             "text": "Cada semana, Atareados te presenta nuevos desafíos que te motivan a completar tus tareas de manera divertida y competitiva."
         },
         {
-            "icon": "fa fa-bullhorn",
+            "icon": "people-outline",
             "title": "Equipos",
             "text": "En Atareados, puedes formar equipos con tus familiares y amigos para colaborar en tareas y objetivos comunes."
         },
         {
-            "icon": "fa fa-group",
+            "icon": "trophy-outline",
             "title": "Competencias",
             "text": "La sana competencia no solo hace las tareas más divertidas, sino que también impulsa la productividad."
         },
         {
-            "icon": "fa fa-magic",
+            "icon": "gift-outline",
             "title": "Sorpresas",
             "text": "Cada 24 horas, se revela una nueva sorpresa que puede incluir puntos extra, recompensas especiales y mucho más."
         }
