@@ -668,3 +668,32 @@ color: #777;
 .panel-body {
 	padding: 15px;
 }
+
+
+.particles-bg-canvas-self {
+	width: 100% !important;
+	height: 100%  !important;
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+.intro {
+	width: 100%;
+	height: auto;
+	position: relative;
+}
+
+@media (max-width: 768px) {
+	.intro {
+		height: 100vh;
+	}
+	.overlay {
+		padding: 20px;
+	}
+	.intro-text h1 {
+		font-size: 24px;
+	}
+	.intro-text p {
+		font-size: 16px;
+	}
+}

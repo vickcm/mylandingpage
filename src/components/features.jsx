@@ -8,7 +8,7 @@ export const Features = (props) => {
         <div className='row'>
           {props.data
             ? props.data.map((d, i) => (
-                <div key={`${d.title}-${i}`} className='col-xs-6 col-md-3'>
+                <div key={`${d.title}-${i}`} className='col-sm-12 col-md-3'>
                   {' '}
                   <ion-icon name={d.icon}></ion-icon>
                   <h3>{d.title}</h3>

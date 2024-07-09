@@ -3,11 +3,12 @@ import ParticlesBg from "particles-bg";
 export const Header = (props) => {
   return (
     <header id='header'>
-      <div className='intro'>
-        <ParticlesBg type="circle" bg={{zIndex: 0, position:"absolute", top:0}} />
+      <div className='intro container-fluid'>
+        <div className="particles-bg-canvas-self" >
+          <ParticlesBg type="circle" bg={{zIndex: 0, position:"absolute", top:0}} />
+        </div>
         <div className='overlay'>
           <div className='container'>
-          
             <div className='row'>
               <div className='col-md-8 col-md-offset-2 intro-text'>
                 <h1>
