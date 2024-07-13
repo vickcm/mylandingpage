@@ -5,35 +5,14 @@ export const AboutV2 = (props) => {
         <div className='row'>
           <div className='col-xs-12 col-md-6'>
             {' '}
-            <img src='img/about.jpg' className='img-responsive' alt='' />{' '}
+            <img src='img/sobre-nosotras.png' className='img-responsive' alt='' />{' '}
           </div>
           <div className='col-xs-12 col-md-6'>
             <div className='about-text'>
               <div className='section-title'>
-                <h2>sobre nosotras</h2>
+                <h2>Sobre nosotras</h2>
               </div>
-              <p>{props.data ? props.data.paragraph : 'loading...'}</p>
-              <h3>Why Choose Us?</h3>
-              <div className='list-style'>
-                <div className='col-lg-6 col-sm-6 col-xs-12'>
-                  <ul>
-                    {props.data
-                      ? props.data.Why.map((d, i) => (
-                          <li key={`${d}-${i}`}>{d}</li>
-                        ))
-                      : 'loading'}
-                  </ul>
-                </div>
-                <div className='col-lg-6 col-sm-6 col-xs-12'>
-                  <ul>
-                    {props.data
-                      ? props.data.Why2.map((d, i) => (
-                          <li key={`${d}-${i}`}> {d}</li>
-                        ))
-                      : 'loading'}
-                  </ul>
-                </div>
-              </div>
+              <p>Somos un equipo de desarrolladoras comprometidas con crear una herramienta que acerque a las familias y alivie la carga mental de las madres. A través de una competencia divertida, buscamos que todos participen en las tareas del hogar, promoviendo la colaboración y el bienestar familiar.</p>
             </div>
           </div>
         </div>

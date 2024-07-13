@@ -6,18 +6,12 @@
         "paragraph3": "¡Descargá Atareados hoy mismo y comenzá a disfrutar de la vida al máximo!"
     },
     "About": {
-        "title": "Descubre Atareados",
-        "paragraph": "Atareados, es la respuesta a esos desafíos cotidianos que todos enfrentamos. Nos ayuda a recuperar el tiempo de calidad juntos, a mantenernos organizados y, lo más importante, a divertirnos mientras lo hacemos. Atareados es una aplicación que fortalece el vínculo familiar, promueve la armonía en la vida cotidiana y, lo que es más significativo, nos ayuda a redescubrir la diversión en cada actividad que compartimos juntos.",
+        "title": "Conocé atareados",
+        "paragraph": "Es la respuesta a esos desafíos cotidianos que todos enfrentamos. Nos ayuda a recuperar el tiempo de calidad juntos, a mantenernos organizados y, lo más importante, a divertirnos mientras lo hacemos. Atareados es una aplicación que fortalece el vínculo familiar, promueve la armonía en la vida cotidiana y, lo que es más significativo, nos ayuda a redescubrir la diversión en cada actividad que compartimos juntos.",
         "Why": [
             "Nos ayuda a recuperar el tiempo de calidad juntos.",
             "Nos ayuda a mantenernos organizados.",
             "Nos ayuda a divertirnos mientras lo hacemos."
-        ],
-        "Why2": [
-            "Aliquip ex ea commodo",
-            "Lorem ipsum dolor",
-            "Exercitation ullamco",
-            "Lorem ipsum dolor"
         ]
     },
     "Services": [{
